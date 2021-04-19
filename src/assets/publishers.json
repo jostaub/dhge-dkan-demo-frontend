@@ -5,9 +5,9 @@
     "searchUrl":"/search/?publisher__name=Gesundheitsamt"
   },
   {
-    "name": "Polizei",
+    "name": "Stadtverwaltung",
     "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
-    "searchUrl":"/search/?publisher__name=Polizei"
+    "searchUrl":"/search/?publisher__name=Stadtverwaltung"
   },
   {
     "name": "Bürgeramt",
