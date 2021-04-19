@@ -9,19 +9,19 @@
   "stats": [
     {
       "content": "Dataset Downloads",
-      "title": "582k",
+      "title": "582",
       "icon": "download",
       "ref": "1"
     },
     {
       "content": "API Queries Run",
-      "title": "317k",
+      "title": "317",
       "icon": "sync",
       "ref": "2"
     },
     {
       "content": "Total Datasets",
-      "title": "2.63k",
+      "title": "263",
       "icon": "database",
       "ref": "3"
     }

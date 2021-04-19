@@ -2,7 +2,6 @@ import React from "react";
 import axios from 'axios';
 import {
   Blocks,
-  Hero,
   IconList,
   IconListItem,
   StatBlock
@@ -55,7 +54,7 @@ const Home = () => {
   return (
     <Layout title="Home">
         <div className="home-page">
-        <Hero title={copy.hero[0].title} intro={copy.hero[0].intro} gradient={'rgb(22, 46, 81), rgb(9, 120, 188)'} />
+        
         <div className="container">
             <IconList
                 items={items}
