@@ -1,19 +1,17 @@
 [
   {
-    "name": "Gesundheit",
-    "description": "",
-    "searchUrl":"/search/?publisher__name=Gesundheit"
+    "name": "Gesundheitsamt",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+    "searchUrl":"/search/?publisher__name=Gesundheitsamt"
   },
   {
-    "name": "Bauen und Wohnen",
-    "imageUrl": "https://dkan-default-content-files.s3.amazonaws.com/files/publishers/clipboard.png",
-    "description": "",
-    "searchUrl":"/search/?publisher__name=Bauen und Wohnen"
+    "name": "Polizei",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+    "searchUrl":"/search/?publisher__name=Polizei"
   },
   {
-    "name": "Mobilität und Reisen",
-    "imageUrl": "https://dkan-default-content-files.s3.amazonaws.com/files/publishers/map.png",
-    "description": "",
-    "searchUrl":"/search/?publisher__name=Mobilität und Reisen"
+    "name": "Bürgeramt",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+    "searchUrl":"/search/?publisher__name=Bürgeramt"
   }
 ]
